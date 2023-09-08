@@ -28,4 +28,3 @@
   
 </div>
 
-![snake gif](https://github.com/https://github.com/VictoAzam/https://github.com/VictoAzam/VictoAzam/blob/output/github-contribution-grid-snake.svg)
